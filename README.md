@@ -1,1 +1,1 @@
-# Algorithm-Specialization---Divide-Conquer-Sorting-and-Searching-and-Randomized-Algorithms
+# Algorithm-Specialization - Divide and Conquer, Sorting and Searching, and Randomized Algorithms
